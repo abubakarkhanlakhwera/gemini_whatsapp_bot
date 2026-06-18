@@ -1,36 +1,32 @@
-# Gemini Whatsapp Bot
+# Gemini WhatsApp Bot
 
-Python WhatsApp bot prototype powered by Gemini API workflows.
+A Python WhatsApp bot experiment powered by Gemini API workflows.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Messaging bots can make AI assistance available inside everyday chat workflows. This project explores connecting Gemini-style responses to a WhatsApp bot interface.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Bot application structure
+- Gemini/API integration concept
+- Python automation flow
 
-## Tech Stack
+## Stack
 
-- Primary language: Python
-- Topics: gemini-api, python, whatsapp-bot
+- Python
+- Gemini API
+- WhatsApp bot workflow
 
-## Repository Structure
+## Status / Safety Note
 
-- Top-level folders: No top-level folders detected.
-- Top-level files: .gitignore, bot_app.py, requirments.txt
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+Never commit tokens, phone numbers, or private chat data.
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Document the bot architecture
+- Add setup steps with secret-handling warnings
+- Use demo-only phone/contact examples
 
 ## Author
 
